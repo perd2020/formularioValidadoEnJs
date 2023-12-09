@@ -12,5 +12,11 @@ Alli la funcion validarCampos irá indicando al usuario si lo que ingreso esta d
 Lo mismo con la funcion con las contraseñas, la funcion inputPassword2 estaria comparando ambos password ya que deben ser iguales para ser admitidos ademas ayuda al ususarioa recordar su contraseña y tener tiempo para ver si la puso bien , o no.
 Hasta que no complete todos los datos(todos son obligatorios), el formulario no se podra enviar. 
 Alpresionar el boron "Enviar"  este formulario sólo mostrará un mensaje de envio exitoso pero por ahora no lo estaria enviando a ningun lado, si se refrescara el formulario.
- ## 
+ ## videos para entender su funcionamiento
+ ##
+ 
+
+
+https://github.com/perd2020/formularioValidadoEnJs/assets/91780371/d3fcdb52-6566-480f-a2f1-2e3de05b1c1c
+
 
